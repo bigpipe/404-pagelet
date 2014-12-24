@@ -1,0 +1,27 @@
+{
+  "name": "404-pagelet",
+  "version": "1.0.0",
+  "description": "Default 404 Pagelet used if the router cannot dispatch to any route",
+  "main": "index.js",
+  "scripts": {
+    "test": "illuminati"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigpipe/404-pagelet.git"
+  },
+  "keywords": [
+    "Pagelet",
+    "BigPipe",
+    "404",
+    "default",
+    "not",
+    "found"
+  ],
+  "author": "Martijn Swaagman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigpipe/404-pagelet/issues"
+  },
+  "homepage": "https://github.com/bigpipe/404-pagelet"
+}
