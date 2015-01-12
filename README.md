@@ -37,8 +37,6 @@ issues, many of them.
 In this example the 404 Pagelet is extended with a custom view.
 [BigPipe] will automatically discover this extended version
 if it is provided to [BigPipe] alongside the other pagelets.
-Note that the enviroment variable can be overruled to manage the
-data that is displayed.
 
 ```js
 'use strict';
