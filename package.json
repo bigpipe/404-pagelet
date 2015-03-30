@@ -14,7 +14,7 @@
     "url": "https://github.com/bigpipe/404-pagelet.git"
   },
   "dependencies": {
-    "pagelet": "1.0.0-alpha",
+    "pagelet": "1.0.0-alpha-3",
     "diagnostics-pagelet": "1.0.x"
   },
   "devDependencies": {
