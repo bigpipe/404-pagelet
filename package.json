@@ -1,6 +1,6 @@
 {
   "name": "404-pagelet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Default 404 Pagelet used if the router cannot dispatch to any route",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/bigpipe/404-pagelet.git"
   },
   "dependencies": {
-    "pagelet": "1.0.0-alpha-3",
+    "pagelet": "1.0.x",
     "diagnostics-pagelet": "1.0.x"
   },
   "devDependencies": {
